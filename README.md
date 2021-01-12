@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-
+![Metrics](https://metrics.lecoq.io/Haneetgh)
 <!--
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning Golang, Rust.
@@ -52,6 +52,9 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+
 <!--
 **HaneetGH/haneetgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

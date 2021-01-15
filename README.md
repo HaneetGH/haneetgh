@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Yoo, I'm [Haneet Singh!](https://Haneetgh.github.io/) 👋
+## Yoo, I'm [Haneet Singh Chhabra!](https://Haneetgh.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneetgh&label=Views&color=blue&style=plastic" alt="haneetgh" /> </p>
 
@@ -28,6 +28,7 @@
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning Golang, Rust.
 - 👯 I’m looking to collaborate on [Frontier](https://frontier.xyz/). -->
+- 🌱 I’m currently learning React Native,flutter.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @haneetchhabra](https://twitter.com/haneetchhabra)
 <!--- 😄 Pronouns: He/His

@@ -4,20 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneetgh&label=Views&color=blue&style=plastic" alt="haneetgh" /> </p>
 
 <a href="https://twitter.com/haneetchhabra">
-  <img align="left" alt="Haneet's Twitter" width="42px" src="https://logotyp.us/file/twitter.svg" />
+  <img align="left" alt="Haneet's Twitter" width="52px" src="https://logotyp.us/file/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/haneetchhabra">
   <img align="left" alt="Haneet's Linkdein" width="42px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://github.com/haneetgh">
-  <img align="left" alt="Haneet's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Haneet's Github" width="42px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 </a>
 <a href="https://instagram.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Haneet's Instagram" width="42px" src="https://logotyp.us/file/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Haneet's Facebook" width="42px" src="https://logotyp.us/file/facebook.svg" />
 </a>
 
 <br/>

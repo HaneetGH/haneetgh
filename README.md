@@ -14,10 +14,10 @@
 </a>
 </a>
 <a href="https://instagram.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Instagram" width="42px" src="https://logotyp.us/file/instagram.svg" />
+  <img align="left" alt="Haneet's Instagram" width="542px" class="center" src="https://logotyp.us/file/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Facebook" width="42px" src="https://logotyp.us/file/facebook.svg" />
+  <img align="left" alt="Haneet's Facebook" width="52px" src="https://logotyp.us/file/facebook.svg" />
 </a>
 
 <br/>

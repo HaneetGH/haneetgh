@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneetgh&label=Views&color=blue&style=plastic" alt="haneetgh" /> </p>
 
 <a href="https://twitter.com/haneetchhabra">
-  <img align="left" alt="Haneet's Twitter" width="22px" src="https://logotyp.us/file/twitter.svg" />
+  <img align="left" alt="Haneet's Twitter" width="42px" src="https://logotyp.us/file/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/haneetchhabra">
-  <img align="left" alt="Haneet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Haneet's Linkdein" width="42px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://github.com/haneetgh">
   <img align="left" alt="Haneet's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />

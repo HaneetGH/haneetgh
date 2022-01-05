@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneetgh&label=Views&color=blue&style=plastic" alt="haneetgh" /> </p>
 
 <a href="https://twitter.com/haneetchhabra">
-  <img align="left" alt="Haneet's Twitter" width="52px" src="https://logotyp.us/file/twitter.svg" />
+  <img align="left" alt="Haneet's Twitter" width="52px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />
 </a>
 <a href="https://linkedin.com/in/haneetchhabra">
   <img align="left" alt="Haneet's Linkdein" width="42px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />

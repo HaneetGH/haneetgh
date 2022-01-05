@@ -14,10 +14,10 @@
 </a>
 </a>
 <a href="https://instagram.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Instagram" width="52px" class="center" src="https://logotyp.us/file/instagram.svg" />
+  <img align="left" alt="Haneet's Instagram" width="52px" class="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 <a href="https://www.facebook.com/haneetsinghchhabra/">
-  <img align="left" alt="Haneet's Facebook" width="52px" src="https://logotyp.us/file/facebook.svg" />
+  <img align="left" alt="Haneet's Facebook" width="52px" src="https://scontent-sin6-1.xx.fbcdn.net/v/t39.8562-6/109960336_274477960450922_1306319190754819753_n.png?_nc_cat=107&ccb=1-5&_nc_sid=6825c5&_nc_ohc=2ffHdpt_85QAX_t97QF&_nc_ht=scontent-sin6-1.xx&oh=00_AT8sF06SD9IbAvKL8Z2no6GXM4hZ-_A59jRS4aUVM1US0w&oe=61D9A730" />
 </a>
 
 <br/>

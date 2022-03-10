@@ -26,9 +26,9 @@
 ![Metrics](https://metrics.lecoq.io/Haneetgh)
 <!--
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning Golang, Rust.
-- 👯 I’m looking to collaborate on [Frontier](https://frontier.xyz/). -->
-- 🌱 I’m currently learning React Native,flutter.
+- 🌱 I’m currently learning Golang, Rust.-->
+- 👯 In love with compose
+- 🌱 I’m currently learning Firebase functions with firestore.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Twitter - @haneetchhabra](https://twitter.com/haneetchhabra)
 <!--- 😄 Pronouns: He/His

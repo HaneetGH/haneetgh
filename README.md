@@ -30,7 +30,7 @@
 - 👯 In love with compose
 - 🌱 I’m currently learning Firebase functions with firestore.
 - 💬 Ask me about Android or any tech related stuff.
-- 🔭 If you're interested in tech world, You can checkout my webpage [TechnoRapper](https://technorapper.com/).
+- 🔭 If you're interested in tech world, You can checkout my webpage [TechnoRapper.com](https://technorapper.com/).
 - 📫 How to reach me: [Twitter - @haneetchhabra](https://twitter.com/haneetchhabra)
 <!--- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.-->

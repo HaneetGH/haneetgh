@@ -25,11 +25,12 @@
 
 ![Metrics](https://metrics.lecoq.io/Haneetgh)
 <!--
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+
 - 🌱 I’m currently learning Golang, Rust.-->
 - 👯 In love with compose
 - 🌱 I’m currently learning Firebase functions with firestore.
 - 💬 Ask me about Android or any tech related stuff.
+- 🔭 If you're interested in tech world, You can checkout my webpage [TechnoRapper](https://technorapper.com/).
 - 📫 How to reach me: [Twitter - @haneetchhabra](https://twitter.com/haneetchhabra)
 <!--- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs everyday.-->

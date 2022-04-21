@@ -1,4 +1,18 @@
-Hi 👋 My name is Haneet =======================  Senior Software Engineer II ---------------------------  Writing Software Since 2014  * 🌍  I'm based in Haryana, India * 🖥️  See my portfolio at [Github Pages](http://haneetgh.github.io) * ✉️  You can contact me at [haneetatwork@gmail.com](mailto:haneetatwork@gmail.com) * 🚀  I'm currently working on [Rakuten Link](http://play.google.com/store/apps/details?id=jp.co.rakuten.mobile.rcs) * 🧠  I'm learning Jetpack Compose, KMM, Firebase Cloud Function etc * 🤝  I'm open to collaborating on Any Challenging Thing * ⚡  If you're interested in tech world, You can checkout my webpage TechnoRapper.com.
+Hi 👋 My name is Haneet 
+=======================  
+
+Senior Software Engineer II 
+---------------------------  
+
+Creating Bugs Since 2014  
+
+* 🌍  I'm based in Haryana, India 
+* 🖥️  See my portfolio at [Github Pages](http://haneetgh.github.io) 
+* ✉️  You can contact me at [haneetatwork@gmail.com](mailto:haneetatwork@gmail.com) 
+* 🚀  I'm currently working on [Rakuten Link](http://play.google.com/store/apps/details?id=jp.co.rakuten.mobile.rcs)
+* 🧠  I'm learning Jetpack Compose, KMM, Firebase Cloud Function etc 
+* 🤝  I'm open to collaborating on Any Challenging Thing 
+* ⚡  If you're interested in tech world, You can checkout my webpage TechnoRapper.com.
 
 <a href="https://www.twitter.com/HaneetChhabra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/HaneetChhabra?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/haneetGH" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/haneetGH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills

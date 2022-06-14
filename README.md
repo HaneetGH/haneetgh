@@ -18,7 +18,7 @@ Creating Bugs Since 2014
 
 <h1 style="margin-top:20px;">Github Trophies 🏆</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=haneetgh&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2014&row=1&no-frame=true)](https://github.com/haneetgh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haneetgh)](https://github.com/haneetgh)
 
 ### Skills
 

@@ -1,7 +1,7 @@
-Hi 👋 My name is Haneet 
+Hi 👋 My name is Haneet
 =======================  
 
-Senior Software Engineer II 
+I'm working with Rakuten as an Senior Software Engineer II 
 ---------------------------  
 
 Creating Bugs Since 2014  

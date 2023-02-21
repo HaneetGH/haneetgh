@@ -1,7 +1,7 @@
 Hi 👋 My name is Haneet
 =======================  
 
-I'm working with Rakuten as an Senior Software Engineer II 
+I'm working with Walmart as an Senior Software Engineer. 
 ---------------------------  
 
 Creating Bugs Since 2014  

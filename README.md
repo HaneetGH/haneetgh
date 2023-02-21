@@ -9,7 +9,7 @@ Creating Bugs Since 2014
 * 🌍  I'm based in Haryana, India 
 * 🖥️  See my portfolio at [Github Pages](http://haneetgh.github.io) 
 * ✉️  You can contact me at [haneetatwork@gmail.com](mailto:haneetatwork@gmail.com) 
-* 🚀  I'm currently working on [Rakuten Link](http://play.google.com/store/apps/details?id=jp.co.rakuten.mobile.rcs)
+* 🚀  I'm currently working on [Walmart Shopping & Grocery](https://play.google.com/store/apps/details?id=com.walmart.android&hl=en_IN&gl=US)
 * 🧠  I'm learning Jetpack Compose, KMM, Firebase Cloud Function etc 
 * 🤝  I'm open to collaborating on Any Challenging Thing 
 * ⚡  If you're interested in tech world, You can checkout my webpage TechnoRapper.com.

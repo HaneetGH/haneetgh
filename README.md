@@ -1,88 +1,60 @@
-Hi 👋 My name is Haneet
-======================
+Hi 👋 I’m Haneet
+================
 
-Senior Software Engineer at Walmart | Android (Kotlin)
-------------------------------------------------------
+Android Engineer | Kotlin | Open-Source Enthusiast
+--------------------------------------------------
 
-Building scalable mobile systems & breaking things since 2014 🚀  
+I’m a software engineer with 10+ years of experience building Android applications, 
+with a strong interest in clean architecture, system design, and scalable mobile platforms.
 
-- 🏢 Senior Software Engineer at **Walmart Global Tech**
-- 📱 Working on **Walmart Shopping & Grocery App (Android)** used by millions
-- 🧠 Expertise in **Android (Kotlin), Jetpack Compose, MVI, Clean Architecture**
-- ⚙️ Hands-on with **performance optimization, caching, feature flags & experimentation**
-- 🔄 Leading cross-team initiatives across **Android, iOS, Web & Backend**
-- 🧪 Strong background in **UI automation (R2/Appium), release SOPs & reliability**
-- 🌍 Based in **India**
-- ✉️ Contact: **haneetatwork@gmail.com**
-- 🤝 Open to collaborating on **high-impact Android & system design work**
-- ⚡ I also run **TechnoRapper.com** — a tech knowledge & experimentation space
+I use this GitHub primarily for **learning in public**, **experimenting**, and 
+**sharing reusable ideas with the developer community**.
 
 ---
 
-### 🧠 System Design Highlights
+### About Me
 
-- Designed **config-driven frontend architectures** to reduce backend coupling
-- Led **API orchestration & caching strategies** eliminating redundant network calls
-- Built scalable **PDP & Community flows** using strict Clean Architecture boundaries
-- Partnered with Backend teams on **metadata-based decision APIs**
-- Drove **cross-platform alignment** (Android, iOS, Web)
-- Focused on **fail-safe design, graceful degradation & retries**
-
----
-
-### 📈 Metrics-Based Impact
-
-- Reduced **average API response times by 20%+** on high-traffic flows
-- Eliminated **~15–20M redundant backend calls per day**
-- Enabled **~8% backend pod reduction**, contributing to infra cost savings
-- Improved **release confidence & stability** through better automation
-- Delivered optimizations with **neutral-to-positive business metrics**
-- Accelerated experimentation by **decoupling releases from feature rollout**
+- Android engineer specializing in **Kotlin** and modern Android development
+- Strong believer in **clean code, clear boundaries, and long-term maintainability**
+- Experience designing systems that scale in terms of **users, teams, and codebases**
+- Comfortable working across **frontend, backend coordination, and automation**
+- Actively exploring **Jetpack Compose, MVI, modularization, and system design**
+- I also run **TechnoRapper.com**, where I experiment with and write about tech ideas
 
 ---
 
-### 🧰 Tech Stack
+### What You’ll Find Here
 
-**Languages & Platforms**
-- Kotlin, Java  
-- Android SDK, Jetpack Compose, Coroutines, Flow  
-
-**Architecture**
-- MVI / MVVM  
-- Clean Architecture  
-- Modular & scalable app design  
-
-**Testing & Automation**
-- R2 (Appium wrapper)  
-- UI, integration & regression strategies  
-
-**Backend & Infra (Working Knowledge)**
-- REST APIs  
-- Firebase (Cloud Functions, Remote Config)  
-- Feature flags & experimentation systems  
+- Sample projects demonstrating **Android architecture patterns**
+- Proof-of-concepts for **Jetpack Compose and modern UI approaches**
+- Experiments around **performance, caching, and network optimization**
+- Reusable base setups for **Android apps and tooling**
+- Notes and experiments from real-world engineering problems
 
 ---
 
-### 📊 GitHub Stats
+### System Design & Engineering Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaneetGH&show_icons=true&count_private=true&theme=dark&hide_border=true)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HaneetGH&theme=onedark&no-frame=true&margin-w=10)
+- Designing **config-driven and decoupled architectures**
+- Minimizing unnecessary dependencies between layers and services
+- Building systems that are **observable, testable, and resilient**
+- Thoughtful handling of **network failures, retries, and degradation**
+- Aligning engineering decisions with **developer experience and maintainability**
 
 ---
 
-### 📌 Featured Repositories
+### Impact & Mindset
 
-| Compose Kotlin Chat | Kotlin Android Base |
-|-------------------|--------------------|
-| ![ComposeKotlinChatPoC](https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=ComposeKotlinChatPoC&theme=dark&hide_border=true) | ![KotlinAndroidBase](https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=KotlinAndroidBase&theme=dark&hide_border=true) |
+- Optimized critical paths to reduce **latency and redundant work**
+- Prefer solutions that improve **clarity and simplicity**, not just performance
+- Value **measurable impact**, but avoid premature optimization
+- Care deeply about **code reviews, documentation, and knowledge sharing**
+- Always open to learning from the community and contributing back
 
 ---
 
-### 🤝 Connect
+### Let’s Connect
 
-![GitHub Followers](https://img.shields.io/github/followers/HaneetGH?style=for-the-badge&logo=github)
+- 📫 Email: **haneetatwork@gmail.com**
+- 🤝 Open to collaboration, discussions, and open-source contributions
+- 💡 If something here helps you, feel free to fork, adapt, or reach out

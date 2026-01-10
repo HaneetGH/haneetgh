@@ -1,39 +1,101 @@
 Hi 👋 My name is Haneet
-=======================  
+======================
 
-I'm working with Walmart as an Senior Software Engineer. 
----------------------------  
+Senior Software Engineer at Walmart | Android (Kotlin)
+------------------------------------------------------
 
-Creating Bugs Since 2014  
+Building scalable mobile systems & breaking things since 2014 🚀  
 
-* 🌍  I'm based in Haryana, India 
-* 🖥️  See my portfolio at [Github Pages](http://haneetgh.github.io) 
-* ✉️  You can contact me at [haneetatwork@gmail.com](mailto:haneetatwork@gmail.com) 
-* 🚀  I'm currently working on [Walmart Shopping & Grocery](https://play.google.com/store/apps/details?id=com.walmart.android&hl=en_IN&gl=US)
-* 🧠  I'm learning Jetpack Compose, KMM, Firebase Cloud Function etc 
-* 🤝  I'm open to collaborating on Any Challenging Thing 
-* ⚡  If you're interested in tech world, You can checkout my webpage TechnoRapper.com.
+* 🏢  Senior Software Engineer at **Walmart Global Tech**
+* 📱  Working on **Walmart Shopping & Grocery App (Android)** used by millions
+* 🧠  Expertise in **Android (Kotlin), Jetpack Compose, MVI, Clean Architecture**
+* ⚙️  Hands-on with **performance optimization, caching, feature flags & experimentation**
+* 🔄  Leading cross-team initiatives across **Android, iOS, Web & Backend**
+* 🧪  Strong background in **UI automation (R2/Appium), release SOPs & reliability**
+* 🌍  Based in **India**
+* ✉️  Contact: **haneetatwork@gmail.com**
+* 🤝  Open to collaborating on **high-impact Android & system design work**
+* ⚡  I also run **TechnoRapper.com** — a tech knowledge & experimentation space
 
-<a href="https://www.twitter.com/HaneetChhabra" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/HaneetChhabra?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/HaneetGH" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HaneetGH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-<h1 style="margin-top:20px;">Github Trophies 🏆</h1>
+### 🧠 System Design Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=haneetgh)](https://github.com/haneetgh)
+- Designed **config-driven frontend architectures** to dynamically control feature eligibility and reduce backend coupling  
+- Led **API orchestration & caching strategies** to eliminate redundant network calls at scale  
+- Built scalable **PDP & Community flows** using strict Clean Architecture boundaries  
+- Partnered with Backend teams on **metadata-based decision APIs** for real-time behavior control  
+- Drove **cross-platform alignment** (Android, iOS, Web) for consistent logic and experimentation  
+- Emphasized **fail-safe design**, graceful degradation, and retry strategies for unreliable networks  
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📈 Metrics-Based Impact
 
-<a href="http://www.github.com/HaneetGH"><img src="https://github-readme-stats.vercel.app/api?username=HaneetGH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HaneetGH's GitHub stats" /></a>
-<a href="http://www.github.com/HaneetGH"><img src="https://activity-graph.herokuapp.com/graph?username=HaneetGH&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<b>Top Repositories</b>
+- Reduced **average API response times by up to 20%+** on high-traffic PDP flows  
+- Eliminated **~15–20M redundant backend calls per day** via caching & config gating  
+- Enabled **~8% backend pod reduction**, contributing to measurable infra cost savings  
+- Improved **release confidence & app stability** by strengthening automation and sign-off SOPs  
+- Delivered optimizations with **neutral-to-positive business metrics**, even at large scale  
+- Accelerated experimentation by **decoupling feature rollout from app releases**
 
-<div width="100%" align="center"><a href="https://github.com/HaneetGH/ComposeKotlinChatPoC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=ComposeKotlinChatPoC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HaneetGH/KotlinAndroidBase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=KotlinAndroidBase&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
+### 🧰 Tech Stack
 
-<div width="100%" align="center"><a href="https://github.com/HaneetGH/ComposeSpotifyD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=ComposeSpotifyD&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HaneetGH/FirebaseCloudFunctions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=FirebaseCloudFunctions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+**Languages & Platforms**
+- Kotlin, Java  
+- Android SDK, Jetpack Compose, Coroutines, Flow  
 
-### Support Me
+**Architecture**
+- MVI / MVVM  
+- Clean Architecture  
+- Modular, scalable app design  
 
-<a href="https://www.buymeacoffee.com/haneet555i"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+**Testing & Automation**
+- R2 (Appium wrapper)  
+- UI, integration & regression strategies  
+
+**Backend & Infra (Hands-on Exposure)**
+- REST APIs  
+- Firebase (Cloud Functions, Remote Config)  
+- Feature flags & experimentation systems  
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://www.github.com/HaneetGH">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaneetGH&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+<a href="https://www.github.com/HaneetGH">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaneetGH&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" />
+</a>
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HaneetGH&theme=onedark)](https://github.com/HaneetGH)
+
+---
+
+### 📌 Featured Repositories
+
+<div width="100%" align="center">
+  <a href="https://github.com/HaneetGH/ComposeKotlinChatPoC">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=ComposeKotlinChatPoC&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" />
+  </a>
+  <a href="https://github.com/HaneetGH/KotlinAndroidBase">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaneetGH&repo=KotlinAndroidBase&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🤝 Connect
+
+<a href="https://www.github.com/HaneetGH">
+  <img src="https://img.shields.io/github/followers/HaneetGH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
